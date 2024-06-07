@@ -1,7 +1,7 @@
 ---
 author: Muhammad Hanif
-pubDatetime: 2024-06-07 11:39:53
-modDatetime: 2024-06-07 11:40:21
+pubDatetime: 2024-06-07T05:06:24Z
+modDatetime: 2024-06-07T05:06:24Z
 title: Simplify Your Tailwind CSS Workflow with tailwind-fun
 slug: simplify-your-tailwind-css-workflow-with-tailwind-fun
 featured: false
