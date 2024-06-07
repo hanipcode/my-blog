@@ -1,0 +1,11 @@
+{
+  "change-case:kebab": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
+    }
+  ]
+}

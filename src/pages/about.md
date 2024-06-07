@@ -3,34 +3,38 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+## Summary
+My name is Muhammad Hanif, Software Engineer based on Indonesia
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+## Past Experience
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+### GoTo Financial - Senior Software Engineer (L3), Frontend
+*2022 - 2023, Jakarta*
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+in this company I am working as software engineer frontend level III (Senior software engineer). my role including
+- create a dashboard app for midtrans.com for the merchants to manage their financial
+- working on Asphalt Design System React Components (Gojek’s Design System)
+- training and onboarding new engineers, helping them familiarize with the project and encouraging unit test
+- writing, teaching, and encouraging front-end unit test for team members
 
-## Tech Stack
+Achievement
+- Encouraging the team to adding unit test to the project, and teach member who is not familiar with unit test for frontend
+- Migrating the project from CRA to webpack with custom config, increasing developer experience
+Since we are in process of migrating to ruby to React I built a bridge component so that our react component can be used in the ruby side of the app
+- Improve the project CI/CD 
+- Create a custom webpack reloader for auto reload on saved changes (the built in doesnt work because we open the react app inside a ruby)
+- creating RFC for frontend data fetching architecturein this company I am working as software engineer frontend level III (Senior software engineer). my role including - create a dashboard app for midtrans.com for the merchants to manage their financial - working on Asphalt Design System React Components (Gojek’s Design System) - training and onboarding new engineers, helping them familiarize with the project and encouraging unit test - writing, teaching, and encouraging front-end unit test for team members Achievement - Encouraging the team to adding unit test to the project, and teach member who is not familiar with unit test for frontend - Migrating the project from CRA to webpack with custom config, increasing developer experience Since we are in process of migrating to ruby to React I built a bridge component so that our react component can be used in the ruby side of the app - Improve the project CI/CD - Create a custom webpack reloader for auto reload on saved changes (the built in doesnt work because we open the react app inside a ruby) - creating RFC for frontend data fetching architecture
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
 
-## Features
+### DesignFiles - Frontend Engineer Consultant
+*2022 - 2023, Remote*
 
-Here are certain features of this site.
+I was contracted as the only frontend engineer in the company to create and fix UI of the web app
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+Tech Stack: Ruby on Rails, ERB template files, Jquery, CSS, JS
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+Achievement:
+- make the app mobile friendly by building the responsive version of the web app
+- create interactive video tutorial page https://designfiles.co/videos using vanilla js
+
+
