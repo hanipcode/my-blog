@@ -1,5 +1,5 @@
 {
-  "buildCommand": "mkdir dist; touch dist/index.html;",
+  "buildCommand": "mkdir dist; touch dist/some_random_thing.html;",
   "rewrites": [
     {
       "source": "/",
