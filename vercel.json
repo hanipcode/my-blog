@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "https://publish.obsidian.md/serve?url=hanifsungkar.com"
+    },
+    {
+      "source": "/:path*",
+      "destination": "https://publish.obsidian.md/serve?url=hanifsungkar.com/Published/:path*"
+    }
+  ]
+}
