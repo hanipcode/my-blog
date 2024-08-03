@@ -1,5 +1,5 @@
 {
-  "buildCommand": "echo Hello",
+  "buildCommand": "mkdir dist;",
   "rewrites": [
     {
       "source": "/",
